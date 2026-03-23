@@ -1,4 +1,4 @@
-package ejeArrayList03;
+package ejeArrayList.eje03;
 
 /**
  *     3. Realiza un programa que introduzca valores aleatorios (entre 0 y 100)

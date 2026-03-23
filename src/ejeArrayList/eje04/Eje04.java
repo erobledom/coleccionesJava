@@ -1,4 +1,4 @@
-package ejeArrayList04;
+package ejeArrayList.eje04;
 
 import java.util.ArrayList;
 import java.util.Collections;
