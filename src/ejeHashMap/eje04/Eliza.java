@@ -13,6 +13,9 @@ public class Eliza {
 		map.put("ADIOS", "Adios espero volver a verte pronto");
 		map.put("HORA", "Lo siento, no llevo reloj");
 		map.put("NOMBRE", "Mi nombre es Eliza");
+		map.put("CINCO", "Por el culo te la hinco jaja saludos");
+		
+		String msgDefault = "Lo siento, no te comprendo";
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.println(" Bienvenido al sistema Eliza 0.0: ");
